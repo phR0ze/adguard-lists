@@ -9,6 +9,19 @@
 @@||ymca360.org^
 !
 ! --------------------------------------
+! Allow google messages to work
+! --------------------------------------
+@@||googleapis.com^
+@@||instantmessaging-pa-jms-us.googleapis.com^
+@@||mobileconfiguration-pa.googleapis.com^
+@@||rcs.telephony.goog^
+@@||*.rcs.telephony.goog^
+@@||google.com^
+@@||gstatic.com^
+@@||play.googleapis.com^
+@@||android.clients.google.com^
+!
+! --------------------------------------
 ! Allow facebook to work
 ! --------------------------------------
 @@||connect.facebook.net^
