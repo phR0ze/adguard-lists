@@ -1,4 +1,4 @@
 !
 ! Title: AdGuard DNS allow list
 !
-||blogspot.com^
+@@||blogspot.com^
