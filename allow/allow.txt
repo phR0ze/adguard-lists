@@ -1,5 +1,13 @@
 !
 ! Title: AdGuard DNS allow list
 !
+! One off unblocking
 @@||blogspot.com^
 @@||ymca360.org^
+! Allow facebook to work
+@@||connect.facebook.net^
+@@||graph.facebook.com^
+@@||facebook.com^
+@@||www.facebook.com^
+@@||static.xx.fbcdn.net^
+@@||scontent.xx.fbcdn.net^
