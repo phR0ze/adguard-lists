@@ -1,10 +1,16 @@
+! ******************************************************************************
+! After applying mega blocking lists some needfuls need explicitly allowed
+! ******************************************************************************
 !
-! Title: AdGuard DNS allow list
-!
-! One off unblocking
+! --------------------------------------
+! Allow one offs
+! --------------------------------------
 @@||blogspot.com^
 @@||ymca360.org^
+!
+! --------------------------------------
 ! Allow facebook to work
+! --------------------------------------
 @@||connect.facebook.net^
 @@||graph.facebook.com^
 @@||facebook.com^
