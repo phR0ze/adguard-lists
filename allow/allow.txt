@@ -2,3 +2,4 @@
 ! Title: AdGuard DNS allow list
 !
 @@||blogspot.com^
+@@||ymca360.org^
