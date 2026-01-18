@@ -12,8 +12,8 @@
 ! --------------------------------------
 ! Allow albertsons weekly ads to work in app
 ! --------------------------------------
-@@||appsflyersdk.com^$important
-@@||wishabi.net^$important
+@@||appsflyersdk.com^
+@@||wishabi.net^
 !
 ! --------------------------------------
 ! Allow google messages to work
