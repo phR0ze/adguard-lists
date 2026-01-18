@@ -5,35 +5,37 @@
 ! --------------------------------------
 ! Allow one offs
 ! --------------------------------------
-@@||blogspot.com^
-@@||ymca360.org^
-@@||youtube-transcript.io^
+@@||blogspot.com^$important
+@@||ymca360.org^$important
+@@||youtube-transcript.io^$important
 !
 ! --------------------------------------
 ! Allow albertsons weekly ads to work in app
 ! --------------------------------------
 @@||appsflyersdk.com^$important
 @@||wishabi.net^$important
+@@||safeway.sc.omtrdc.net^$important
+@@||api.flipp.com^$important
 !
 ! --------------------------------------
 ! Allow google messages to work
 ! --------------------------------------
-@@||googleapis.com^
-@@||instantmessaging-pa-jms-us.googleapis.com^
-@@||mobileconfiguration-pa.googleapis.com^
-@@||rcs.telephony.goog^
-@@||*.rcs.telephony.goog^
-@@||google.com^
-@@||gstatic.com^
-@@||play.googleapis.com^
-@@||android.clients.google.com^
+@@||googleapis.com^$important
+@@||instantmessaging-pa-jms-us.googleapis.com^$important
+@@||mobileconfiguration-pa.googleapis.com^$important
+@@||rcs.telephony.goog^$important
+@@||*.rcs.telephony.goog^$important
+@@||google.com^$important
+@@||gstatic.com^$important
+@@||play.googleapis.com^$important
+@@||android.clients.google.com^$important
 !
 ! --------------------------------------
 ! Allow facebook to work
 ! --------------------------------------
-@@||connect.facebook.net^
-@@||graph.facebook.com^
-@@||facebook.com^
-@@||www.facebook.com^
-@@||static.xx.fbcdn.net^
-@@||scontent.xx.fbcdn.net^
+@@||connect.facebook.net^$important
+@@||graph.facebook.com^$important
+@@||facebook.com^$important
+@@||www.facebook.com^$important
+@@||static.xx.fbcdn.net^$important
+@@||scontent.xx.fbcdn.net^$important
