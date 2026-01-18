@@ -10,6 +10,12 @@
 @@||youtube-transcript.io^
 !
 ! --------------------------------------
+! Allow albertsons weekly ads to work in app
+! --------------------------------------
+@@||appsflyersdk.com^$important
+@@||wishabi.net^$important
+!
+! --------------------------------------
 ! Allow google messages to work
 ! --------------------------------------
 @@||googleapis.com^
