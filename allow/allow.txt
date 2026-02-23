@@ -9,6 +9,8 @@
 @@||ymca360.org^$important
 @@||tailscale.com^$important
 @@||youtube-transcript.io^$important
+! File storage for Vallivue.org
+@@||4.files.edl.io^$important
 !
 ! --------------------------------------
 ! Allow albertsons weekly ads to work in app
