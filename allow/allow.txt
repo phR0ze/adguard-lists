@@ -9,6 +9,7 @@
 @@||ymca360.org^$important
 @@||tailscale.com^$important
 @@||youtube-transcript.io^$important
+@@||redcrossblood.org^$important
 ! File storage for Vallivue.org
 @@||4.files.edl.io^$important
 !
